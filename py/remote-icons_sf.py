@@ -6,7 +6,7 @@ with Diagram("Environments", show=False, filename="custom_remote", direction="LR
 
   # download the icon image files
 
-  with Cluster("System"):
+  with Cluster("CRM"):
 
     sf_url = "https://raw.githubusercontent.com/mohan-chinnappan-n5/dwg-icons/main/sf/sf.svg.png"
     sf_icon = "sf.svg.png"
